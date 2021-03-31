@@ -1,0 +1,11 @@
+{
+  "name": "yarn-node-linker-bin-issue",
+  "workspaces": [
+    "apps/app-workspace-1",
+    "apps/app-workspace-2",
+    "apps/app-workspace-3"
+  ],
+  "dependencies": {
+    "node_modules-path": "2.0.5"
+  }
+}
